@@ -2,6 +2,19 @@
 
 이 프로젝트는 네이버 데이터랩(Shopping Insights) 및 검색 API를 활용하여 특정 카테고리의 쇼핑 트렌드를 분석하고, 실시간 검색 결과를 통합하여 제공하는 인터랙티브 대시보드입니다.
 
+---
+
+## 🌐 즉시 체험하기 (Live Demo)
+
+별도의 설치 없이 아래 링크를 통해 웹에서 바로 대시보드를 확인해 보실 수 있습니다.
+
+- **배포 주소**: [https://hlap-naver-jdi94aahqtuagjeo44nyt5.streamlit.app/](https://hlap-naver-jdi94aahqtuagjeo44nyt5.streamlit.app/)
+
+> [!TIP]
+> 직접 본인의 API 키를 사용하여 로컬에서 더욱 자유롭게 분석하고 싶다면 아래 **실행 가이드**를 따라주세요!
+
+---
+
 ## 🌟 주요 기능
 
 ### 📉 1. 키워드 트렌드 비교 (Trend Analysis)
